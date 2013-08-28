@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AngularJS (CoffeeScript)",
+		"Better CoffeeScript",
+		"CoffeeLint",
+		"CoffeeScript",
+		"Dotfiles Syntax Highlighting",
+		"EasyMotion",
+		"Jade",
+		"Javascript Beautify",
+		"JSHint",
+		"JSLint",
+		"LESS",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SCSS",
+		"SFTP",
+		"SJSON",
+		"SublimeLinter"
+	],
+	"repositories":
+	[
+		"https://github.com/mattbanks/dotfiles-syntax-highlighting-st2"
+	]
+}

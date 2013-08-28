@@ -1,0 +1,6 @@
+[
+    {"keys": ["f9"], "command": "prev_view"},
+    {"keys": ["f10"], "command": "next_view"},
+    {"keys": ["f13"], "command": "prev_view"},
+    {"keys": ["f14"], "command": "next_view"}
+]
